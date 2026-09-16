@@ -68,6 +68,7 @@ I learn. I design. I break. I fix. I repeat.
 - Playing CS2 and football
 - Songs on repeat
 - Anime and manga marathons
+- Recently developed interest in GAA and Warhammer 40k
 
 ---
 
