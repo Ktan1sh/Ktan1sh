@@ -5,9 +5,7 @@
 
 <h1 align="center">👋 Hey there, I’m <strong>Tanish Kansara</strong></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=3000&pause=500&center=true&color=a80050&width=600&lines=Future+Hardware+Wizard;Temporary+Programmer;PCB+Obsessed" alt="Typing Animation"/>
-</p>
+
 
 ---
 
